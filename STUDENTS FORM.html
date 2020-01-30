@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>REGISTRATION FORM</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="container-fluid">
+    <img src="images2/school.JPG" alt="" height="300px" width="1280px">
+</div>
+<div class="container">
+    <form action="#">
+        <h3 class="text-capitalize text-sm-center ">REGISTRATION FORM</h3>
+        <h5 class=" text-sm-center"> 2020-2021 School Year</h5>
+        <div class="container">
+            <h2 class="bg-dark text-white" >Student information</h2>
+            <div class="form-row">
+                <div class="form-group col-sm-4">
+                    <label class="col-form-label" for="fname">First Name:</label>
+                    <input class="form-control" type="text" name="firstname" placeholder="first name" id="fname">
+                </div>
+                <div class="form-group col-sm-4">
+                    <label class="col-form-label" for="sname">Second Name:</label>
+                    <input class="form-control" type="text" name="second name" placeholder="second name" id="sname">
+                </div>
+                <div class="form-group col-sm-4">
+                    <label class="col-form-label" for="lname">Last Name:</label>
+                    <input class="form-control" type="text" name="lastname" placeholder="lastname" id="lname">
+                </div>
+            </div>
+            <div class="row">
+                <p class="col-sm-3">Student gender:</p>
+                <input type="radio" name="male" value="male" class="col-sm-2">Male
+                <input type="radio" name="female" value="female" class="col-sm-2">Female
+                <input type="radio" name="other" value="other" class="col-sm-2">Other
+            </div>
+            <div class="container"><br>
+            <div class="form-row">
+                <p class="col-sm-2">Date of Birth:</p>
+                <input type="date" name="dbirth" class="col-sm-2">
+                <p class="col-sm-2">Place of Birth:</p>
+                <input type="text" name="pbirth" class="col-sm-2">
+                <p class="col-sm-1">Age:</p>
+                <input type="text" name="age" class="col-sm-2">
+            </div>
+            </div>
+            <div class="container"><br>
+            <div class="form-row">
+                <p class="col-sm-2">Address:</p>
+                <input type="text" name="adress" class="col-sm-2">
+                <p class="col-sm-2">City:</p>
+                <input type="text" name="City" class="col-sm-2">
+            </div>
+            </div>
+            <div class="container"><br>
+            Preferred Phone Number: <input type="tel" name="telno" placeholder="phone number">
+            </div>
+            <div class="container"><br>
+                <div class="form-row">
+                    <p class="col-sm-6">Most Resent School: <input type="text" name="school"></p>
+                    <p class="col-sm-6">Grade: <input type="text" name="grade"></p>
+                </div>
+            </div>
+            <div class="container form-group">
+                <label for="LEVEL"> Level of Education</label>
+                <select name="LEVEL" id="LEVEL">
+                    <option value="UPPER">UPPER CLASS</option>
+                    <option value="LOWER">LOWER CLASS</option>
+                    <option value="KINDERGARTEN">KINDERGARTEN</option>
+                </select>
+            </div>
+            <h2 class="bg-dark text-white" >Parent's information</h2>
+            <div class="form-row">
+                <p class="col-sm-3">Parent 1 Name: <input class="form-control" type="text" name="parent name"></p>
+                <p class="col-sm-3">Parent 2 Name: <input class="form-control" type="text" name="parent name"></p>
+
+            </div>
+            <div class="form-row">
+                <p class="col-sm-3">Address: <input class="form-control" type="text" name="address"></p>
+                <p class="col-sm-3">Address: <input class="form-control" type="text" name="address"></p>
+            </div>
+            <div class="form-row">
+                <p class="col-sm-3">Phone number: <input class="form-control" type="text" name="Phone number"></p>
+                <p class="col-sm-3">Phone number: <input class="form-control" type="text" name="Phone number"></p>
+            </div>
+            <div class="form-row">
+                <p class="col-sm-3">Email: <input class="form-control" type="email" name="Email"></p>
+                <p class="col-sm-3">Email: <input class="form-control" type="email" name="Email"></p>
+            </div>
+            <div class="form-row">
+                <p class="col-sm-3">Custodial?
+                <input type="checkbox" id="custodial">
+                <label for="custodial">yes</label>
+                    <input type="checkbox" id="custodia">
+                    <label for="custodia">No</label>
+                </p>
+                <p class="col-sm-3">Custodial?
+                    <input type="checkbox" id="custodi">
+                    <label for="custodi">yes</label>
+                    <input type="checkbox" id="custod">
+                    <label for="custod">No</label>
+                </p>
+            </div>
+            <div>
+            <h2><u>Special needs</u></h2>
+                <div class="card bg-info">
+                    <div class="card-body card-text ">
+            <p>If your child has any special needs, we will ask you to help us serve your child better by completing
+            a Special Needs Information Form at the time of your admission interview</p>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn-secondary">SUBMIT</button>
+        </div>
+    </form>
+</div>
+
+</body>
+</html>
