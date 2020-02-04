@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc82bacb-bdce-454d-83ad-81612507b4b8" name="Default Changelist" comment="" />
+    <list default="true" id="14ddaca1-0263-49d3-91ef-b6c2b75f2152" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,29 +12,18 @@
       <executable />
     </execution>
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1WeCc1Ii6NZLyoplwkVc26S3q9v" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MERMICON" />
+  </component>
+  <component name="ProjectId" id="1X9bOAA63syzuoKrca51CK9F9Ry" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,16 +33,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images2" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pdf" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MERCY MERRY\PhpstormProjects\bootstrapclass\images2" />
-      <recent name="C:\Users\MERCY MERRY\PhpstormProjects\bootstrapclass" />
-      <recent name="C:\Users\MERCY MERRY\PhpstormProjects\bootstrapclass\js" />
+      <recent name="C:\Users\MERCY MERRY\PhpstormProjects\my projects\pdf" />
+      <recent name="C:\Users\MERCY MERRY\PhpstormProjects\my projects\MERMICON" />
+      <recent name="C:\Users\MERCY MERRY\PhpstormProjects\my projects" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -73,20 +61,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cc82bacb-bdce-454d-83ad-81612507b4b8" name="Default Changelist" comment="" />
-      <created>1579500748370</created>
+      <changelist id="14ddaca1-0263-49d3-91ef-b6c2b75f2152" name="Default Changelist" comment="" />
+      <created>1580461222494</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579500748370</updated>
-      <workItem from="1579500750707" duration="12738000" />
-      <workItem from="1579616206480" duration="719000" />
-      <workItem from="1579760405172" duration="4014000" />
-      <workItem from="1579765601727" duration="3571000" />
-      <workItem from="1579843792141" duration="2424000" />
-      <workItem from="1580107279827" duration="16027000" />
-      <workItem from="1580190241617" duration="12926000" />
-      <workItem from="1580275094305" duration="20914000" />
-      <workItem from="1580361655895" duration="3916000" />
+      <updated>1580461222494</updated>
+      <workItem from="1580461225335" duration="20297000" />
+      <workItem from="1580633387629" duration="7353000" />
+      <workItem from="1580707440896" duration="5258000" />
+      <workItem from="1580836734650" duration="1870000" />
     </task>
     <servers />
   </component>
@@ -94,17 +77,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1579617876680">
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1580708833759">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579617876680" />
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1580361846946">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580361846946" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1580362030087">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580362030087" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580708833759" />
   </component>
 </project>
